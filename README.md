@@ -6,7 +6,7 @@ Excel file shows a simple and straightforward dashboard containing important KPI
 
 Second Project:
 Used Python initially to see the data in a couple of different ways, grouping the KPI's by different metrics, age group, gender, etc.
-I then loaded the dataset in Power BI's interface where I made a simple dashboard showcasing these KPIs along with interactive visuals.
+I then loaded the dataset in Power BI's interface where I made a straightforward dashboard showcasing these KPIs along with interactive visuals.
 
 Below is a screenshot of the Excel dashboard:
 
