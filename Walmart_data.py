@@ -46,4 +46,5 @@ plt.title('Total Revenue by Age Group')
 plt.ylabel('Total Revenue')
 plt.xlabel('Age Group')
 plt.tight_layout()
+
 plt.show()
